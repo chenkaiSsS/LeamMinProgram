@@ -1,0 +1,5 @@
+<!--home/home.wxml-->
+<!-- 代码 -->
+<!-- app.json是程序入口 -->
+<text class="title">Hello Word</text>
+<button size="mini">按钮</button>

@@ -1,0 +1,6 @@
+/* home/home.wxss */
+/*样式*/
+.title{
+  color: red;
+  font-size: 30px;
+}
